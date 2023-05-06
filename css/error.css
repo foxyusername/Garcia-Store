@@ -1,0 +1,22 @@
+#error-screen{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: first baseline;
+    background-color: rgb(15, 15, 15);
+}
+.error-div{
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+#h1-404{
+  font-size: 90px;
+}
+#error{
+font-size: 40px;
+margin-top:30px;
+}
